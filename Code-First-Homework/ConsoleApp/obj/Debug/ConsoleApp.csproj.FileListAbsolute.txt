@@ -1,0 +1,15 @@
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\bin\Debug\ConsoleApp.exe
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\bin\Debug\ConsoleApp.pdb
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\bin\Debug\EntityFramework.dll
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\bin\Debug\EntityFramework.xml
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\obj\Debug\ConsoleApp.exe
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\obj\Debug\ConsoleApp.pdb
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\obj\Debug\ConsoleApp.Migrations.InitialCreate.resources
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\obj\Debug\ConsoleApp.csproj.GenerateResource.cache
+c:\users\gabriela\source\repos\Code-First-Homework\ConsoleApp\obj\Debug\ConsoleApp.Migrations.LikesMigration.resources
